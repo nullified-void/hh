@@ -1,0 +1,25 @@
+D:\личка\WindowsFormsApplication2\client\bin\Debug\client.exe.config
+D:\личка\WindowsFormsApplication2\client\bin\Debug\client.exe
+D:\личка\WindowsFormsApplication2\client\bin\Debug\client.pdb
+D:\личка\WindowsFormsApplication2\client\obj\Debug\client.exe
+D:\личка\WindowsFormsApplication2\client\obj\Debug\client.pdb
+D:\WindowsFormsApplication2 - копия\client\bin\Debug\client.exe.config
+D:\WindowsFormsApplication2 - копия\client\bin\Debug\client.exe
+D:\WindowsFormsApplication2 - копия\client\bin\Debug\client.pdb
+D:\WindowsFormsApplication2 - копия\client\obj\Debug\client.exe
+D:\WindowsFormsApplication2 - копия\client\obj\Debug\client.pdb
+D:\WindowsFormsApplication2 - копия\client\obj\Debug\client.banner.resources
+D:\WindowsFormsApplication2 - копия\client\obj\Debug\client.csproj.GenerateResource.Cache
+D:\WindowsFormsApplication2 - копия\client\obj\Debug\client.Properties.Resources.resources
+E:\WindowsFormsApplication2 - копия\client\bin\Debug\client.exe.config
+E:\WindowsFormsApplication2 - копия\client\bin\Debug\client.exe
+E:\WindowsFormsApplication2 - копия\client\bin\Debug\client.pdb
+E:\WindowsFormsApplication2 - копия\client\obj\Debug\client.banner.resources
+E:\WindowsFormsApplication2 - копия\client\obj\Debug\client.Properties.Resources.resources
+E:\WindowsFormsApplication2 - копия\client\obj\Debug\client.csproj.GenerateResource.Cache
+E:\WindowsFormsApplication2 - копия\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+E:\WindowsFormsApplication2 - копия\client\obj\Debug\client.exe
+E:\WindowsFormsApplication2 - копия\client\obj\Debug\client.pdb
+D:\WindowsFormsApplication2 - копия\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+D:\WindowsFormsApplication2 - копия\client\obj\Debug\client.csprojAssemblyReference.cache
+E:\WindowsFormsApplication2 - копия\client\obj\Debug\client.csprojAssemblyReference.cache

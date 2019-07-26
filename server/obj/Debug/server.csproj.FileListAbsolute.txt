@@ -1,0 +1,26 @@
+D:\личка\WindowsFormsApplication2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\личка\WindowsFormsApplication2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\личка\WindowsFormsApplication2\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\личка\WindowsFormsApplication2\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\личка\WindowsFormsApplication2\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\личка\WindowsFormsApplication2\ConsoleApplication1\obj\Debug\server.csprojResolveAssemblyReference.cache
+D:\WindowsFormsApplication2 - копия\server\bin\Debug\ConsoleApplication1.exe.config
+D:\WindowsFormsApplication2 - копия\server\bin\Debug\ConsoleApplication1.exe
+D:\WindowsFormsApplication2 - копия\server\bin\Debug\ConsoleApplication1.pdb
+D:\WindowsFormsApplication2 - копия\server\obj\Debug\ConsoleApplication1.Form1.resources
+D:\WindowsFormsApplication2 - копия\server\obj\Debug\server.csproj.GenerateResource.cache
+D:\WindowsFormsApplication2 - копия\server\obj\Debug\ConsoleApplication1.exe
+D:\WindowsFormsApplication2 - копия\server\obj\Debug\ConsoleApplication1.pdb
+D:\WindowsFormsApplication2 - копия\server\obj\Debug\ConsoleApplication1.procdialog.resources
+E:\WindowsFormsApplication2 - копия\server\bin\Debug\ConsoleApplication1.exe.config
+E:\WindowsFormsApplication2 - копия\server\bin\Debug\ConsoleApplication1.exe
+E:\WindowsFormsApplication2 - копия\server\bin\Debug\ConsoleApplication1.pdb
+E:\WindowsFormsApplication2 - копия\server\obj\Debug\ConsoleApplication1.Form1.resources
+E:\WindowsFormsApplication2 - копия\server\obj\Debug\ConsoleApplication1.procdialog.resources
+E:\WindowsFormsApplication2 - копия\server\obj\Debug\server.csproj.GenerateResource.Cache
+E:\WindowsFormsApplication2 - копия\server\obj\Debug\ConsoleApplication1.exe
+E:\WindowsFormsApplication2 - копия\server\obj\Debug\ConsoleApplication1.pdb
+D:\WindowsFormsApplication2 - копия\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+D:\WindowsFormsApplication2 - копия\server\obj\Debug\server.csprojAssemblyReference.cache
+E:\WindowsFormsApplication2 - копия\server\obj\Debug\server.csprojAssemblyReference.cache
+E:\WindowsFormsApplication2 - копия\server\obj\Debug\server.csproj.CoreCompileInputs.cache
